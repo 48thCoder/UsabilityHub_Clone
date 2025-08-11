@@ -7,10 +7,9 @@ For my first Web Dev project, I set out to clone the UsabilityHub website using 
 - Replicate key features
 
 ## 📍Project Screenshots :
-![Img 1](https://github.com/user-attachments/assets/fcb22cd3-69d5-440c-a245-ca97ef5488f1)
-
-![Img 2](https://github.com/user-attachments/assets/b76b6841-12db-4d00-8cde-c80b650a3a85)
-
-![Img 3](https://github.com/user-attachments/assets/75b8212e-0a93-41a4-89fc-afa66285be48)
-
-![Img 4](https://github.com/user-attachments/assets/dd4a8f23-a734-4fc7-9203-728c171035c0)
+<img width="1920" height="1080" alt="Img 1" src="https://github.com/user-attachments/assets/a62d33b8-9059-435b-a414-d34189db8ce2" />
+<img width="1920" height="1080" alt="Img 2" src="https://github.com/user-attachments/assets/852299a1-c359-4f3e-8d80-61459b06c62c" />
+<img width="1920" height="1080" alt="Img 3" src="https://github.com/user-attachments/assets/329a9430-1634-454a-b80b-8c89de9a18c3" />
+<img width="1920" height="1080" alt="Img 4" src="https://github.com/user-attachments/assets/86899cff-da8f-489b-bc0e-a4bfb17e0e21" />
+<img width="1920" height="1080" alt="Img 5" src="https://github.com/user-attachments/assets/acd27d58-db54-4530-b272-9f920ac8600a" />
+<img width="1920" height="1080" alt="Img 6" src="https://github.com/user-attachments/assets/8d372e24-cf44-4cf3-b54d-5b00b77bd8f9" />
