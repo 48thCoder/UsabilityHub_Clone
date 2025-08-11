@@ -3,8 +3,7 @@ For my first Web Dev project, I set out to clone the UsabilityHub website using 
 
 ## 📍Objectives :
 - Learn and apply HTML and CSS
-- Build a responsive design
-- Replicate key features
+- Replicate key features of the original webpage
 
 ## 📍Project Screenshots :
 <img width="1920" height="1080" alt="Img 1" src="https://github.com/user-attachments/assets/a62d33b8-9059-435b-a414-d34189db8ce2" />
